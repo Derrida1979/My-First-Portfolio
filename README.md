@@ -10,4 +10,15 @@ Zapraszam Cię więc do mojego świata. Pozwól, że podzielę się z Tobą moj�
 # Kursy i ksiązki tematyczne:
 # Grupy testerskie, blogi i webinary:
 # Działalność na platformach crowdfundingowych:
+uTest.com
+Testlio.com
+Test.io
+Testbirds
+UserCrowd
+Tryber
+User Fell
+Sharewell
+We are testers
+Ubertesters
+User Lytics
 # Moje projekty:
